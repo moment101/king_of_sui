@@ -1,0 +1,4 @@
+export const devnetPackageAddress = "0x54af9424af29498f24c231df86c8280a1b3a8f795b5bbfb0e6639e9e45a868f8";
+export const devnetGameStorageAddress = "0x350e8488b82ecd945c32ac39db3aa29a479068aaf7f885d55c91bfb9fa278b36";
+export const devnetLeaderBoardAddress = "0xa4713caa2b2ea2c344bb9b80d1418cc852f2964c178a8edb66ab5da6fc7bd48a";
+export const roundTimeMiliSecond = 10*60*1000;
